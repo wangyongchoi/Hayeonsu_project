@@ -1,0 +1,2 @@
+# HAYEONSU PROJECT
+A MFC based game like SNAKE.
